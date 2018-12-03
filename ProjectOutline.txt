@@ -1,0 +1,12 @@
+Description of data and the problem
+Description of model
+Description of prior choices
+Stan code
+How Stan model is run
+Convergence diagnostics
+Posterior predictive checking
+Model comparison
+Predictive performance assessment
+Potential sensitivity analysis
+Potential improvement
+
